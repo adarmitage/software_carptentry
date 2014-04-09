@@ -6,4 +6,4 @@ Abstract:
 Introduction:
 Data: Data will be collected in the future.
 Results:
-Discussion
+Discussion: An alternative set of discussion
